@@ -1,6 +1,6 @@
 {
   "name": "env-save",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Save a variable into .env file with protecting your other comments and variables",
   "main": "env-save.js",
   "scripts": {
