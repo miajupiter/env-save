@@ -92,6 +92,7 @@ MY_NAME=shamanCoders
 USER_ID=319817318  # for all mankind
 
 TEST=4445
+...
 ```
 
 ```bash
@@ -103,7 +104,9 @@ env-save --USER_ID=40015
 ```dosini
 MY_NAME=shamanCoders
 USER_ID=40015 # for all mankind
+
 TEST=4445
+...
 ```
 
 
