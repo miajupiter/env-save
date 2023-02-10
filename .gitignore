@@ -1,3 +1,9 @@
+*.code-workspace
+*!!__*
+*copy *
+*-lock.json
+*.vscode*
+.env-sample
 # Logs
 logs
 *.log

@@ -1,0 +1,34 @@
+{
+  "name": "env-save",
+  "version": "1.0.4",
+  "description": "Save a variable into .env file with protecting your other comments and variables",
+  "main": "env-save.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "bin": {
+    "env-save": "./cli.js",
+    "env-save-cli": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miajupiter/env-save.git"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "env-save",
+    "cli",
+    "save-env",
+    ".env"
+  ],
+  "author": "MiaJupiter Developer Team <dev@miajupiter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miajupiter/env-save/issues"
+  },
+  "homepage": "https://github.com/miajupiter/env-save#readme",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
