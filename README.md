@@ -7,7 +7,7 @@
 
 
 # env-save 
-[![npm](https://img.shields.io/npm/v/env-save?label=npm&logo=npm) ](https://www.npmjs.com/package/env-save) [![download](https://img.shields.io/npm/dt/env-save?label=downloads&logo=npm)](https://www.npmjs.com/package/env-save) [![GitHub](https://img.shields.io/github/license/miajupiter/sms-save)](https://choosealicense.com/licenses/mit/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiajupiter%2Fenv-save&count_bg=%236495ED&title_bg=%23323232&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![](https://img.shields.io/badge/readme-docs-chocolate.svg)](https://github.com/miajupiter/env-save#readme) [![](https://img.shields.io/github/stars/miajupiter/env-save?color=yellow&label=stars&logo=github)](https://github.com/miajupiter/env-save/stargazers)
+[![npm](https://img.shields.io/npm/v/env-save?label=npm&logo=npm) ](https://www.npmjs.com/package/env-save) [![download](https://img.shields.io/npm/dt/env-save?label=downloads&logo=npm)](https://www.npmjs.com/package/env-save) [![GitHub](https://img.shields.io/github/license/miajupiter/env-save)](https://choosealicense.com/licenses/mit/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiajupiter%2Fenv-save&count_bg=%236495ED&title_bg=%23323232&icon=cliqz.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![](https://img.shields.io/badge/readme-docs-chocolate.svg)](https://github.com/miajupiter/env-save#readme) [![](https://img.shields.io/github/stars/miajupiter/env-save?color=yellow&label=stars&logo=github)](https://github.com/miajupiter/env-save/stargazers)
 
 
 ## Table of contents
