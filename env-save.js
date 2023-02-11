@@ -7,6 +7,8 @@ var options = {
 }
 
 module.exports = (param, value, userOptions) =>{
+  process.env[param]=value
+  
   if (userOptions) {
     Object.assign(options, userOptions)
   }
