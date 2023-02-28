@@ -12,7 +12,9 @@ module.exports = (param, value, userOptions) =>{
   if (userOptions) {
     Object.assign(options, userOptions)
   }
-
+  if(!fs.existsSync(options.env)){
+    fs.writeFileSync(options.env, '', 'utf8')
+  }
   let lines = fs.readFileSync(options.env, 'utf8').split('\n')
   let s = ''
   let bulundu=false
